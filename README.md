@@ -55,7 +55,8 @@ _I’ll be adding projects as I build them. Some of the upcoming ones:_
 
 ## 📫 Contact
 
-- LinkedIn: [Miguel Ángel Bellido González del Alba](linkedin.com/in/miguelangelbgg/)
+- LinkedIn: [linkedin.com/in/miguelangelbgg/](https://www.linkedin.com/in/miguelangelbgg/)
+- Gmail: mangelbel2000@gmail.com
 - GitHub: [miguelangelbel](https://github.com/miguelangelbel)
 
 If you're interested in talking about data, AI, or cloud architecture, feel free to reach out! 😊
