@@ -39,7 +39,7 @@ _I’ll be adding projects as I build them. Some of the upcoming ones:_
 - `ml-regresion-housing` — Regression model to predict house prices (end-to-end pipeline).
 - `ml-clasificacion-churn` — Churn classification with metric analysis and feature interpretation.
 - `dl-vision-transfer-learning` — Image classification using transfer learning.
-- `llm-rag-mini` — Small RAG system for question answering over a document set.
+- `genai-learning-assistant` — End-to-end GenAI learning project focused on building and understanding the main components of modern LLM applications.
 
 > All projects will follow a standard folder structure  
 > and include a detailed README so data, model, and results are easy to understand.
