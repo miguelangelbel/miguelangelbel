@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Mahe
+# 👋 Hi, I'm Miguel Angel
 
 I'm a data professional with experience in analytics, reporting, and KPI governance, currently transitioning towards a **Data Architect / Data Scientist** role with a focus on **ML, DL, and LLMs**.
 
