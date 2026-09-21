@@ -23,7 +23,7 @@ I currently work with data in a cloud environment (AWS) and I'm building a techn
 **Cloud & AWS**
 - AWS Cloud Practitioner (certified)
 - AWS AI Practitioner (certified)
-- Services used / familiar with: S3, Athena, Glue, EMR (conceptually), SageMaker
+- Services used / familiar with: S3, Athena, Glue, EMR, SageMaker
 
 **Machine Learning & AI**
 - Classical ML: regression, classification, model evaluation (precision, recall, F1, ROC-AUC, etc.)
